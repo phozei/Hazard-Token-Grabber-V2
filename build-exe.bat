@@ -1,7 +1,7 @@
 @echo off
 color 0a
 echo.
-set /p a="Enter the exe name : "
+set /p a="poop"
 if [%a%]==[] ( 
     echo.
     echo bro enter a name
